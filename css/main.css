@@ -1,0 +1,80 @@
+.s{
+    display: flex;
+    width: 500px;
+}
+.input{
+    
+    width: 500px;
+    height: 100%;
+    margin-top: -30px;
+    margin-left: 100px;
+    
+
+}
+.form{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.input_i{
+    width:300px;
+    margin: 5px;
+    display: block;
+    border-radius: 5px;
+}
+.form-select{
+    width:300px;
+    margin: 5px;
+    display: block;
+}
+.card{
+    margin-left: 15px;
+    width:300px;
+}
+.div{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.btn-primary{
+    width: 300px;
+    margin-left: 5px;
+}
+
+.ss2{
+    margin-top: -650px;
+    transform: translateX(600px);
+    
+}
+
+
+.rasm{
+    display: flex;
+}
+
+.rasm_btn{
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 170, 255);
+    color: rgb(0, 170, 255);
+    font-size: 10px;
+    padding: 5px;
+}
+.rasm_btn:hover{
+    background-color: brown;
+}
+.s2_sarlafha{
+   margin: 30px 50px;
+}
+.s2_p{
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    border-radius: 3px;
+    width: 600px;
+    height: 50px;
+    background-color: rgba(92, 179, 210, 0.454);
+    color: rgb(0, 147, 201);
+}
+.h5{
+    margin-left: 7px;
+}
